@@ -24,3 +24,5 @@ The default hotkey to open the in-game config GUI is **N + C**.
 ## Thanks
 
 Thanks [Magiclib](https://github.com/Hendrix-Shen/Magiclib).
+
+
